@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="current_tab_name">Current</string>
+    <string name="hourly_tab_name">Hourly</string>
+
+    <string name="network_error">Network Access Error</string>
+    <string name="check_settings">\nCheck your WiFi or Phone Settings</string>
+    <string name="exit">Exit</string>
+
+    <string name="wind_dir_east">East</string>
+    <string name="wind_dir_west">West</string>
+    <string name="wind_dir_north">North</string>
+    <string name="wind_dir_south">South</string>
+</resources>
