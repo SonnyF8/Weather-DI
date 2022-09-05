@@ -16,3 +16,5 @@ Features:
 - Icon in upper right of screen to add/manage cities.
 - Google Places API to add city in manager page lookup.
 - Swipe right to delete city from city manager page.
+- Passing context via WeakReference to prevent context leaks.
+- Implemented Dagger-Hilt DI in this version for DB and Network.
